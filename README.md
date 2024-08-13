@@ -76,16 +76,6 @@ The model's predictions are evaluated using the R-squared metric, with results i
 - Experiment with other machine learning models like XGBoost or Gradient Boosting Machines.
 - Deploy the model as a web service for real-time predictions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please contact:
-
-- Your Name
-- Email: your.email@example.com
 - GitHub: [yourusername](https://github.com/yourusername)
 
 ---
