@@ -76,8 +76,6 @@ The model's predictions are evaluated using the R-squared metric, with results i
 - Experiment with other machine learning models like XGBoost or Gradient Boosting Machines.
 - Deploy the model as a web service for real-time predictions.
 
-- GitHub: [yourusername](https://github.com/yourusername)
-
 ---
 
 This README file provides an overview of the project, instructions for usage, and additional information about the dataset and potential future work. Adjust the content as necessary to match your project's specifics.
